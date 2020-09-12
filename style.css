@@ -1,0 +1,55 @@
+html{
+    background-color: peachpuff;
+}
+h1{
+    text-align: center;
+    font-family: pacifico;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-family: comfortaa;
+    font-size: 20px;
+}
+.box{
+    width: 30%;
+    float: left;
+    padding-bottom: 30%;
+    margin: 1.66%;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color:blue ;
+}
+.box4{
+    background-color: yellow;
+}
+.box5{
+    background-color:orange;
+}
+.box6{
+    background-color: brown;
+}
+.box7{
+    background-color: white;
+}
+.box8{
+    background-color: black;
+}
+.box9{
+    background-color: yellowgreen;
+}
+.box10{
+    background-color: violet;
+}
+.box11{
+    background-color: rosybrown;
+}
+.box12{
+    background-color: rebeccapurple;
+}

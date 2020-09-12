@@ -1,0 +1,40 @@
+body{
+    align-content: center;
+    align-items: center;
+}
+h1{
+    align-items: center;
+    text-align: center;
+    color: rebeccapurple;
+}
+h4{
+    align-items: center;
+    text-align: center; 
+}
+input[type=text],select,textarea{
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    margin-left: 45%;
+    resize: vertical;
+}
+
+input[type=submit]:hover{
+background-color: #45a049;
+}
+#contact{
+    border-radius: 5px;
+    background-color: blue;
+    padding: 10px;
+}
+label{
+    text-align: center;
+    margin-left: 50%;
+}
+form{
+    background-color: blue;
+    border-radius: 10px;
+   margin: 30px;
+    padding-bottom: 30px;
+}
